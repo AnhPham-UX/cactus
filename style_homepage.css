@@ -1,0 +1,220 @@
+.macbook-pro-14-4-child {
+    position: absolute;
+    top: 0px;
+    left: -140px;
+    width: 1695px;
+    height: 1118px;
+}
+.plant-of-the {
+    position: absolute;
+    top: 118px;
+    left: calc(50% - 307px);
+    letter-spacing: -0.25px;
+    line-height: 64px;
+    display: inline-block;
+    width: 614px;
+}
+.nature-icon {
+    position: absolute;
+    top: 248px;
+    left: 414px;
+    width: 683px;
+    height: 455px;
+    object-fit: cover;
+}
+.menu-item1 {
+    position: relative;
+    line-height: 100%;
+    font-weight: 500;
+}
+.menu-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 12px 8px;
+}
+.icon-jam-icons-outline-l {
+    width: 24px;
+    position: relative;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.menu-item4 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 12px 8px;
+    gap: 8px;
+}
+.menu {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.rectangle-14-stroke {
+    width: 24px;
+    position: relative;
+    height: 24px;
+}
+.icon-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.webbyframes {
+    position: relative;
+    line-height: 110%;
+}
+.for-figma {
+    position: relative;
+    font-size: 12px;
+    line-height: 140%;
+    margin-top: -4px;
+}
+.text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+}
+.logo {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+    font-size: 24px;
+    color: #697077;
+}
+.icon-jam-icons-outline-l1 {
+    width: 24px;
+    position: relative;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 0;
+}
+.text1 {
+    position: relative;
+    line-height: 140%;
+}
+.badge {
+    margin: 0 !important;
+    position: absolute;
+    top: 8px;
+    left: 24px;
+    border-radius: 12px;
+    background-color: #da1e28;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5px 5.5px;
+    z-index: 1;
+}
+.button {
+    width: 48px;
+    height: 48px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 8px;
+    box-sizing: border-box;
+    position: relative;
+    gap: 16px;
+}
+.button1 {
+    width: 48px;
+    height: 48px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 8px;
+    box-sizing: border-box;
+}
+.user-thumb {
+    width: 48px;
+    border-radius: 100px;
+    background-color: #f2f4f8;
+    height: 48px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.buttons-group {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    text-align: center;
+    font-size: 12px;
+    color: #fff;
+}
+.desktop-horizontal-logo-ce {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    border-bottom: 1px solid #dde1e6;
+    box-sizing: border-box;
+    width: 1512px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 16px 80px;
+    gap: 48px;
+    text-align: left;
+    font-size: 16px;
+    color: #21272a;
+}
+.plant-name {
+    position: absolute;
+    top: 773px;
+    left: 41px;
+    letter-spacing: -0.25px;
+    line-height: 64px;
+    font-weight: 500;
+    color: #fff;
+    display: inline-block;
+    width: 180px;
+}
+.water-me-everyday {
+    position: absolute;
+    top: 755px;
+    left: 530px;
+    font-size: 24px;
+    letter-spacing: -0.25px;
+    line-height: 39px;
+    font-weight: 300;
+    color: #000;
+    display: inline-block;
+    width: 479px;
+    height: 119px;
+}
+.macbook-pro-14-4 {
+    width: 100%;
+    position: relative;
+    height: 982px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 57px;
+    color: #305061;
+    font-family: Roboto;
+}
+body {
+    margin: 0;
+    line-height: normal;
+    background: #F4EAE7;
+}

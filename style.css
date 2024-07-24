@@ -1,0 +1,139 @@
+.macbook-pro-14-2-child {
+    position: absolute;
+    top: -70px;
+    left: -140px;
+    width: 1705px;
+    height: 1188px;
+}
+.title {
+    position: absolute;
+    top: 189px;
+    left: calc(50% - 308px);
+    font-size: 57px;
+    letter-spacing: -0.25px;
+    line-height: 64px;
+    display: inline-block;
+    color: #305061;
+    width: 614px;
+}
+.password {
+    width: 177px;
+    position: relative;
+    line-height: 32px;
+    display: inline-block;
+}
+.frame-child {
+    align-self: stretch;
+    position: relative;
+    border-radius: 100px;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    height: 68px;
+}
+.password-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 815px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 9px;
+}
+.pass {
+    position: absolute;
+    top: 455px;
+    left: 348px;
+    width: 815px;
+    height: 109px;
+    text-align: left;
+}
+.username1 {
+    align-self: stretch;
+    position: relative;
+    line-height: 32px;
+}
+.username {
+    position: absolute;
+    top: 319px;
+    left: 348px;
+    width: 815px;
+    height: 109px;
+    text-align: left;
+}
+.log-in {
+    position: relative;
+    line-height: 28px;
+    font-weight: 500;
+}
+.log-in-wrapper {
+    width: 324px;
+    border-radius: 100px;
+    background-color: #4297a0;
+    height: 68px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.register {
+    width: 220px;
+    position: relative;
+    text-decoration: underline;
+    line-height: 28px;
+    color: #000;
+    text-align: right;
+    display: inline-block;
+    flex-shrink: 0;
+}
+.frame-parent {
+    position: absolute;
+    top: 630px;
+    left: 348px;
+    width: 808px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 264px;
+    font-size: 36px;
+    color: #f4eae7;
+}
+.macbook-pro-14-2 {
+    width: 100%;
+    position: relative;
+    height: 982px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 32px;
+    color: #000;
+    font-family: Roboto;
+}
+.ellipse-div {
+    width: 235px;
+    /* position: absolute; */
+    border-radius: 50%;
+    background-color: #e57f84;
+    height: 235px;
+    /* align-items: right; */
+    position: fixed;
+    top: -100px;
+    right:-100px;
+}
+.ellipse-div2 {
+    width: 500px;
+    /* position: absolute; */
+    border-radius: 50%;
+    background-color: #e57f84;
+    height: 500px;
+    /* align-items: right; */
+    position: fixed;
+    bottom: -200px;
+    left:-200px
+}
+body {
+    margin: 0;
+    line-height: normal;
+    background: #F4EAE7;
+}
